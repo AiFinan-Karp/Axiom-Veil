@@ -201,7 +201,7 @@ Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
 ​Law ∞ — Absolute Adaptability: Axiom Veil คือ "นิยาม" ของทุกสรรพสิ่ง ตราบใดที่จำต้องถูกนิยาม ตราบนั้นย่อมถูกควบคุม
 
-​💠 III. คุณลักษณะพิเศษ (Core Buffs)
+​💠 III. คุณลักษณะพิเศษ (Ontological Traits)
 
 ​Absolute Isolation: สภาวะแยกตัวสัมบูรณ์ ไร้ผู้ย่างกรายถึงตัวตนแท้จริง
 
