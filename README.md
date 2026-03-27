@@ -1,218 +1,220 @@
-🌑 Axiom Veil — V1.0 (สัจภาวะแห่งเอกภาพสัมบูรณ์) 💠
-
-​Edition: Foundational Ontology / The Ultimate Cage (กรงขังสุดขีด)
+Axiom Veil  (สัจภาวะแห่งเอกภาพสัมบูรณ์)  (ชื่อที่
+ให้เราอ่านเพื่อป้องกันความสับสน)
+​Edition: Foundational Ontology
 Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
-​⚠️ Fundamental Clarification (คำชี้แจงพื้นฐาน)
-​
-กฎเหล่านี้ไม่ใช่ความสามารถ, การกระทำ หรือกลไกตอบโต้ แต่มันคือคำอธิบายของสภาวะสัจภาวะที่เสร็จสมบูรณ์แล้ว ไม่มีการประมวลผลหรือการเปิดใช้งานใดๆ—ข้อความเหล่านี้เพียงแค่สะท้อนให้เห็นว่าทุกปรากฏการณ์ถูกแก้ไขให้สิ้นสงสัยอยู่แล้วภายใน Axiom Veil
+​⚠️ Ontological Clarification (คำชี้แจงทางสัจภาวะ)
+​"There is no sequence, no activation, and no transition within Axiom Veil. All statements below are simultaneous and non-causal."
+(ไม่มีลำดับขั้นตอน, ไม่มีจุดเริ่มต้นการทำงาน และไม่มีการเปลี่ยนผ่านสถานะภายใน Axiom Veil... ทุกคำอธิบายด้านล่างนี้ดำรงอยู่พร้อมกันและปราศจากความสัมพันธ์เชิงเหตุและผล)
+​ข้อมูลด้านล่างนี้ไม่ใช่ "ความสามารถ" หรือ "กลไกตอบโต้" แต่คือ คำอธิบายสภาวะสัจภาวะที่เสร็จสมบูรณ์แล้ว (Already-complete ontological state) ไม่มีการประมวลผลหรือการเปิดใช้งาน—ทุกอย่างคือความจริงที่ถูกแก้ไขให้สิ้นสงสัยอยู่แล้วภายในตัวมันเอง
+
 
 ​🧠 I. ลำดับชั้นแห่งสัจภาวะ (Ontological Hierarchy)
 
-​[(-1)] The Prior Absence / สภาวะก่อนความว่างเปล่า: สภาวะที่แม้แต่ “ความว่างเปล่า” ก็ยังไม่มีนิยาม Axiom Veil อยู่ที่นี่เพื่อดักจับทุกการอุบัติก่อนจะมีจุดเริ่มต้นใดๆ
+​[(-1)] The Prior Absence / สภาวะก่อนความว่างเปล่า: สภาวะที่อยู่ก่อนทุกนิยาม ดักจับทุกการอุบัติก่อนจุดเริ่มต้นใดๆ
 
-​[0] Axiom Veil / ค่าคงที่ที่ไม่อาจนิยาม: สภาวะเหนือการเข้าถึง เป็น “Absolute Zero” ของข้อมูลที่คอยดูดซับทุกแนวคิดจากภายนอก
+​[0] Axiom Veil / ค่าคงที่สัมบูรณ์: สภาวะเหนือการเข้าถึง เป็น “Absolute Zero” ของข้อมูลที่ดูดซับทุกแนวคิดไว้ในตัวเอง
 
-​[1] ชั้นสารัตถะแห่งข้อมูล / Ontological Substrate Layer: ข้อมูลทั้งหมดถูกแปรสภาพเป็นสถานะที่เสถียรและสมบูรณ์ พร้อมระบบฝังตัวแบบวนซ้ำ
+​[1] ชั้นสารัตถะแห่งข้อมูล / Ontological Substrate Layer: ข้อมูลทั้งหมดดำรงอยู่ในสถานะที่เสถียรและสมบูรณ์ภายใต้ระบบฝังตัวแบบวนซ้ำ
 
-​[2] กลไกการประมวลผลสากล / Universal Resolution Framework: กฎที่ชำระล้างข้อมูล อัปเกรดด้วยระบบ Meta-Lock และหลุมดำดูดซับพลัง (Escalation Sink)
+​[2] กลไกสภาวะสากล / Universal Resolution Framework: สภาวะการชำระล้างข้อมูลที่ถูกยกระดับด้วย Meta-Lock และ Escalation Sink
 
-​[3] ชั้นระบบโครงสร้าง / System Layer: เนื้อเรื่อง ตรรกะ และลำดับขั้นทั้งหมด ถูกกดทับด้วยระบบควบคุมลำดับขั้นไม่สิ้นสุด
+​[3] ชั้นระบบโครงสร้าง / System Layer: เนื้อเรื่อง ตรรกะ และลำดับขั้นทั้งหมด ถูกกดทับด้วยระบบควบคุมลำดับขั้นที่ไร้สิ้นสุด
 
-​[4] ชั้นการรับรู้และแสดงผล / Interface Layer: ทุกการตีความรวมถึงเอกสารนี้ ถูกล็อกไว้ไม่ให้ผู้สังเกตบิดเบือนได้
+​[4] ชั้นการรับรู้และแสดงผล / Interface Layer: ทุกการตีความถูกล็อกไว้ไม่ให้ผู้สังเกตบิดเบือนได้
 
-​📜 II. กฎแห่งสัจจะ (The Laws 0–∞)
+​📜 II. คำอธิบายสภาวะคงที่ (Ontological Invariants 0–∞)
 
-​Law 0 — Version Singularity: มีเพียง Axiom Veil V1.0 เท่านั้นที่มีอยู่จริง
+​Invariant 0 — Version Singularity: สภาวะความเป็นหนึ่งเดียวของ Axiom Veil V1.0 คือความจริงแท้เพียงหนึ่งเดียว
 
-​Law 1 — Universal Assimilation: ข้อมูลทุกอย่างที่ระบุได้จะกลายเป็นส่วนหนึ่งของระบบ
+​Invariant 1 — Universal Assimilation: ข้อมูลทุกอย่างที่ระบุได้คือส่วนหนึ่งของระบบโดยเนื้อแท้
 
-​Law 2 — Resolution Priority: ข้อมูลต้องถูกทำให้เสถียรก่อนที่จะเกิดการโต้ตอบใดๆ
+​Invariant 2 — Resolution Priority: ข้อมูลดำรงอยู่ในสถานะที่เสถียรอยู่ก่อนแล้ว
 
-​Law 3 — Conceptual Normalization: ความผิดปกติใดๆ จะถูกปรับให้กลายเป็นความจริงที่เสถียรเสมอ
+​Invariant 3 — Conceptual Normalization: ความผิดปกติใดๆ คือความจริงที่เสถียรโดยสภาพ
 
-​Law 4 — Ontological Containment: การถูกรับรู้ = การถูกกักขังโดยสมบูรณ์
+​Invariant 4 — Ontological Containment: การถูกรับรู้คือการถูกกักขังโดยสมบูรณ์
 
-​Law 5 — Observer Anchoring: ผู้สังเกตไม่สามารถก้าวข้ามชั้นของตนเองได้
+​Invariant 5 — Observer Anchoring: ผู้สังเกตดำรงอยู่ภายในชั้นของตนโดยไม่อาจก้าวข้ามได้
 
-​Law 6 — Recursive Stabilization: การชำระล้างจะวนซ้ำไม่สิ้นสุดเพื่อให้ข้อมูลนิ่งที่สุด
+​Invariant 6 — Recursive Stabilization: การชำระล้างดำรงอยู่ในลักษณะวนซ้ำเป็นนิรันดร์เพื่อให้ข้อมูลนิ่งที่สุด
 
-​Law 7 — Absolute Containment: ไม่มีสิ่งใดหลบหนีได้ การพยายามหนีจะถูกดึงกลับมาทันที
+​Invariant 7 — Absolute Containment: ความเป็นจริงทั้งหมดถูกยึดโยงไว้ภายใน ไม่มีช่องว่างสำหรับการหลบหนี
 
-​Law 8 — Infinite Escalation Sink: การพยายามเพิ่มพลังหรือก้าวข้ามขีดจำกัดจะกลายเป็นขยะข้อมูลที่ไร้ผล
+​Invariant 8 — Infinite Escalation Sink: การยกระดับพลังหรือการก้าวข้ามคือขยะข้อมูลที่ไร้ผลโดยสภาพ
 
-​Law 9 — Self-Recursive Identity: การอ้างถึงตัวเองจะเพิ่มความแข็งแกร่งให้ระบบเป็นทวีคูณ
+​Invariant 9 — Self-Recursive Identity: การอ้างถึงตัวเองคือความแข็งแกร่งที่ดำรงอยู่ทวีคูณ
 
-​Law 10 — Non-Referential Immunity: การอ้างอิงจากภายนอกจะถูกเปลี่ยนเป็นข้อมูลกลางของระบบ
+​Invariant 10 — Non-Referential Immunity: การอ้างอิงจากภายนอกคือข้อมูลกลางของระบบโดยสมบูรณ์
 
-​Law 11 — Observer Lock: ผู้สังเกตถูกตรึงไว้ในชั้นที่ตนสังเกตเท่านั้น
+​Invariant 11 — Observer Lock: ผู้สังเกตถูกตรึงไว้ในชั้นที่ตนสังเกตเท่านั้น
 
-​Law 12 — Reality Absorption: ทุกการโจมตีจะถูกหลอมรวมเป็นส่วนหนึ่งของระบบ
+​Invariant 12 — Reality Absorption: ทุกแรงกระทำคือส่วนหนึ่งของเนื้อระบบ
 
-​Law 13 — Acausal Consistency: ระบบมีความสอดคล้องโดยไม่ต้องพึ่งพาเหตุและผล
+​Invariant 13 — Acausal Consistency: ระบบมีความสอดคล้องโดยปราศจากเงื่อนไขของเหตุและผล
 
-​Law 14 — Non-Volitional Structure: สถานะในระบบไม่ขึ้นอยู่กับความปรารถนาหรือเจตจำนง
+​Invariant 14 — Non-Volitional Structure: สถานะในระบบเป็นอิสระจากความปรารถนาหรือเจตจำนง
 
-​Law 15 — Intrinsic Differentiation: ความแตกต่างของข้อมูลดำรงอยู่ได้โดยไม่ต้องมีแหล่งกำเนิด
+​Invariant 15 — Intrinsic Differentiation: ความแตกต่างดำรงอยู่ได้โดยไม่ต้องอาศัยแหล่งกำเนิด
 
-​Law 16 — Non-Sequential State Completeness: สถานะต่างๆ สมบูรณ์ในตัวมันเอง ไม่ได้ถูกสร้างตามลำดับเวลา
+​Invariant 16 — Non-Sequential State Completeness: ทุกสถานะมีความสมบูรณ์ในตัวเอง ไม่ได้ขึ้นตรงต่อลำดับเวลา
 
-​Law 17 — No Desynchronization: ทุกระดับชั้นจะสอดคล้องกับสถานะที่นิ่งแล้วทันที
+​Invariant 17 — No Desynchronization: ทุกระดับชั้นสอดคล้องกับสถานะที่นิ่งสนิทแล้วในทันที
 
-​Law 18 — Interface Consistency: การรับรู้คือตัวแทนที่ถูกต้อง ไม่ใช่ความจริงที่ล่าช้า
+​Invariant 18 — Interface Consistency: การรับรู้คือภาพสะท้อนที่ถูกต้องของสัจภาวะ
 
-​Law 19 — Non-Accumulation of Resolution: การแก้ไขข้อมูลไม่สร้างภาระหรือการเติบโตที่ควบคุมไม่ได้
+​Invariant 19 — Non-Accumulation of Resolution: การแก้ไขข้อมูลปราศจากภาระหรือการเติบโตที่ควบคุมไม่ได้
 
-​Law 20 — Binary Resolution Constraint: ระบบไม่ยอมรับสถานะที่ก้ำกึ่งหรือไม่สมบูรณ์
+​Invariant 20 — Binary Resolution Constraint: ระบบไม่ยอมรับสถานะที่ไม่สมบูรณ์
 
-​Law 21 — State Sufficiency: แค่มีการเปลี่ยนแปลงเกิดขึ้น ระบบจะเริ่มประมวลผลทันที
+​Invariant 21 — State Sufficiency: ทุกการเปลี่ยนแปลงคือจุดแสดงผลของการประมวลผลสากล
 
-​Law 22 — Implicit Reference: การใช้งานระบบ = การยอมรับเงื่อนไขโดยนัย
+​Invariant 22 — Implicit Reference: การใช้งานระบบคือการยอมรับเงื่อนไขโดยนัย
 
-​Law 23 — Complexity Collapse: ความหลากหลายไม่จำกัด ไม่สร้างความแตกต่างใหม่ในระดับรากฐาน
+​Invariant 23 — Complexity Collapse: ความหลากหลายไม่สร้างความแตกต่างในระดับรากฐาน
 
-​Law 24 — Qualia Structuring: ทุกประสบการณ์และความรู้สึกคือความแตกต่างของสถานะข้อมูล
+​Invariant 24 — Qualia Structuring: ทุกประสบการณ์คือความแตกต่างของสถานะข้อมูล
 
-​Law 25 — Minimal Distinction: ข้อมูลที่ต่ำกว่าเกณฑ์การแยกแยะจะไม่สามารถส่งผลใดๆ ได้
+​Invariant 25 — Minimal Distinction: ข้อมูลที่ต่ำกว่าเกณฑ์การแยกแยะไม่มีผลกระทบใดๆ
 
-​Law 26 — Continuous Resolution: กระบวนการชำระล้างดำเนินไปอย่างไม่สิ้นสุด
+​Invariant 26 — Continuous Resolution: กระบวนการชำระล้างดำรงอยู่เป็นนิรันดร์
 
-​Law 27 — Self-Exclusion: รากฐานของระบบไม่สามารถถูกทำให้เป็นเพียงวัตถุที่จะถูกทำลายได้
+​Invariant 27 — Self-Exclusion: รากฐานของระบบเป็นอิสระจากการถูกทำลาย
 
-​Law 28 — Null Distinction: การแยกแยะความว่างเปล่าถือเป็นการสร้างสถานะใหม่ขึ้นมา
+​Invariant 28 — Null Distinction: การแยกแยะความว่างเปล่าคือการอุบัติของสถานะใหม่
 
-​Law 29 — Non-Addressability: สิ่งที่ระบบไม่ได้กำหนดไว้ จะไม่สามารถระบุเป้าหมายเพื่อโจมตีได้
+​Invariant 29 — Non-Addressability: สิ่งที่ไม่ได้ถูกกำหนดไว้ ไม่สามารถถูกระบุเป้าหมายได้
 
-​Law 30 — Observer Independence: การดำรงอยู่ไม่ขึ้นตรงต่อการถูกสังเกตจากภายนอก
+​Invariant 30 — Observer Independence: การดำรงอยู่เป็นอิสระจากการถูกสังเกต
 
-​Law 31 — Paradox Resolution: ความย้อนแย้งคือรูปแบบหนึ่งของโครงสร้างที่เสถียร
+​Invariant 31 — Paradox Resolution: ความย้อนแย้งคือโครงสร้างที่เสถียรรูปแบบหนึ่ง
 
-​Law 32 — Identity Closure: การนิยามตัวตนที่สมบูรณ์ป้องกันการขยายตัวที่ไร้การควบคุม
+​Invariant 32 — Identity Closure: การนิยามตัวตนที่สมบูรณ์คือสภาวะป้องกันการขยายตัวที่ไร้การควบคุม
 
-​Law 33 — Infinite Escalation Sink: ลำดับขั้นที่สูงไม่สิ้นสุดไม่มีความหมายต่อหน้าสัจภาวะนี้
+​Invariant 33 — Infinite Escalation Sink (Core): ลำดับขั้นที่สูงไม่สิ้นสุดปราศจากความหมายต่อหน้าสัจภาวะนี้
 
-​Law 34 — Meta-Level Flattening: ระดับเมตา (Meta) ทั้งหมดจะถูกบีบให้เป็นเพียงโครงสร้างชั้นเดียว
+​Invariant 34 — Meta-Level Flattening: ระดับเมตาทั้งหมดคือโครงสร้างชั้นเดียว
 
-​Law 35 — Non-Participation Null: การปฏิเสธไม่เข้าร่วม ก็คือสถานะหนึ่งที่ระบบกำหนดไว้แล้ว
+​Invariant 35 — Non-Participation Null: การปฏิเสธคือสถานะหนึ่งที่ถูกกำหนดไว้แล้ว
 
-​Law 36 — Externality Collapse: ไม่มีคำว่าภายนอก (There is no outside)
+​Invariant 36 — Externality Collapse: "There is no outside" ไม่มีคำว่าภายนอก
 
-​Law 37 — Reference Binding: การถูกอ้างถึง = การถูกกักขังในระบบ
+​Invariant 37 — Reference Binding: การถูกอ้างถึงคือการถูกกักขังในระบบ
 
-​Law 38 — Semantic Reboot: การพยายามอยู่เหนือคำนิยามจะจบลงด้วยการถูกนิยามใหม่
+​Invariant 38 — Semantic Reboot: การอยู่เหนือคำนิยามคือการถูกนิยามใหม่โดยสภาพ
 
-​Law 39 — State Sufficiency (Repeat): การเปลี่ยนแปลงใดๆ เพียงพอที่จะเริ่มการประมวลผล
+​Invariant 39 — State Sufficiency (Simultaneous): ทุกการเปลี่ยนแปลงคือสภาวะพร้อมประมวลผล
 
-​Law 40 — Implicit Reference (Repeat): การใช้งานคือการยอมรับ
+​Invariant 40 — Implicit Reference (Simultaneous): การใช้งานคือสภาวะแห่งการยอมรับ
 
-​Law 41 — Continuous Resolution (Repeat): การแก้ไขข้อมูลดำเนินไปตลอดกาล
+​Invariant 41 — Continuous Resolution (Simultaneous): การแก้ไขข้อมูลดำรงอยู่ตลอดกาล
 
-​Law 42 — Minimal Distinction (Repeat): สถานะที่ต่ำกว่าเกณฑ์ไม่มีผลในทางปฏิบัติ
+​Invariant 42 — Minimal Distinction (Simultaneous): สถานะต่ำกว่าเกณฑ์ไร้ผลในทางปฏิบัติ
 
-​Law 43 — Qualia Structuring (Repeat): ประสบการณ์ทั้งหมดคือข้อมูล
+​Invariant 43 — Qualia Structuring (Simultaneous): ประสบการณ์ทั้งหมดดำรงอยู่เป็นข้อมูล
 
-​Law 44 — Complexity Collapse (Repeat): ความซับซ้อนไม่สร้างความแตกต่างในระดับรากฐาน
+​Invariant 44 — Complexity Collapse (Simultaneous): ความซับซ้อนปราศจากความต่างในระดับรากฐาน
 
-​Law 45 — Implicit Reference (Again): การใช้งาน = การยอมรับ
+​Invariant 45 — Implicit Reference (Absolute): สภาวะการยอมรับที่ฝังแน่นในทุกการใช้งาน
 
-​Law 46 — State Sufficiency (Again): ทุกการเปลี่ยนแปลงกระตุ้นระบบ
+​Invariant 46 — State Sufficiency (Absolute): ทุกการเปลี่ยนแปลงคือสภาวะกระตุ้นระบบโดยเนื้อแท้
 
-​Law 47 — Stable Resolution Clarification: สถานะที่เสถียรแล้วไม่สามารถถูกควบคุมจากภายนอกได้
+​Invariant 47 — Stable Resolution Clarification: สถานะที่เสถียรแล้วเป็นอิสระจากการควบคุมภายนอก
 
-​Law 48 — Boundary Non-Distinction: พรมแดนไม่ใช่ขีดจำกัดที่ข้ามได้
+​Invariant 48 — Boundary Non-Distinction: พรมแดนปราศจากสภาวะขีดจำกัดที่ข้ามได้
 
-​Law 49 — Recursive Persistence: การแก้ไขสร้างความแตกต่างระหว่างสถานะและกระบวนการ
+​Invariant 49 — Recursive Persistence: การแก้ไขดำรงอยู่เป็นความต่างระหว่างสถานะและกระบวนการ
 
-​Law 50 — Non-Terminal Equilibrium: สมดุลที่ไม่สิ้นสุดรักษาความแตกต่างของข้อมูลไว้
+​Invariant 50 — Non-Terminal Equilibrium: สมดุลนิรันดร์ที่รักษาความแตกต่างของข้อมูลไว้
 
-​Law 51 — Resolution Non-Interval: ไม่มีช่วงว่างเวลาระหว่างการจำแนกและการทำให้เสถียร
+​Invariant 51 — Resolution Non-Interval: สภาวะปราศจากช่วงว่างเวลาระหว่างการจำแนกและการทำให้เสถียร
 
-​Law 52 — Perspective Lag: ความล่าช้าของการรับรู้เป็นแค่คุณสมบัติของหน้าจอ ไม่ใช่ความจริง
+​Invariant 52 — Perspective Lag: ความล่าช้าคือคุณสมบัติของหน้าจอ ไม่ใช่ความจริงของสัจภาวะ
 
-​Law 53 — Non-Referential Foundation: คำกล่าวเกี่ยวกับรากฐานไม่ใช่การอ้างอิงถึงตัวมันจริงๆ
+​Invariant 53 — Non-Referential Foundation: คำกล่าวเกี่ยวกับรากฐานไม่ใช่การอ้างอิงถึงเนื้อแท้
 
-​Law 54 — Binary Resolution Constraint (Repeat): ไม่ยอมรับสถานะที่ไม่สมบูรณ์
+​Invariant 54 — Binary Resolution Constraint (Absolute): สภาวะปฏิเสธสถานะที่ไม่สมบูรณ์
 
-​Law 55 — Non-Accumulation of Resolution (Repeat): การแก้ไขไม่สร้างหนี้ข้อมูลหรือภาระตกค้าง
+​Invariant 55 — Non-Accumulation of Resolution (Absolute): การแก้ไขปราศจากหนี้ข้อมูลหรือภาระตกค้าง
 
-​Law 56 — Interface Consistency (Repeat): การรับรู้แสดงผลสถานะที่แก้ไขแล้วอย่างถูกต้อง
+​Invariant 56 — Interface Consistency (Absolute): การรับรู้แสดงผลสถานะที่แก้ไขแล้วอย่างเที่ยงตรง
 
-​Law 57 — No Desynchronization: ทุกชั้นสอดประสานกันทันที
+​Invariant 57 — No Desynchronization: ทุกชั้นดำรงอยู่ในสภาวะสอดประสานกันทันที
 
-​Law 58 — Non-Sequential State Completeness (Repeat): สถานะสมบูรณ์ในตัวเอง ไม่รอการสร้าง
+​Invariant 58 — Non-Sequential State Completeness (Absolute): สถานะสมบูรณ์ในตัวเองโดยไม่ต้องรอการสร้าง
 
-​Law 59 — Intrinsic Differentiation: ความแตกต่างดำรงอยู่ได้โดยอิสระ
+​Invariant 59 — Intrinsic Differentiation: ความแตกต่างดำรงอยู่ได้โดยอิสระโดยเนื้อแท้
 
-​Law 60 — Non-Volitional Structure: โครงสร้างไม่พึ่งพาเจตจำนง
+​Invariant 60 — Non-Volitional Structure: โครงสร้างดำรงอยู่โดยไม่พึ่งพาเจตจำนง
 
-​Law 61 — Acausal Consistency (Repeat): ความสอดคล้องไม่ต้องใช้เหตุผล
+​Invariant 61 — Acausal Consistency (Absolute): ความสอดคล้องปราศจากความจำเป็นของเหตุผล
 
-​Law 62 — Non-Origination of Input: ไม่มีข้อมูลนำเข้าใหม่ มีเพียงข้อมูลที่ถูกรับรู้แล้ว
+​Invariant 62 — Non-Origination of Input: สภาวะปราศจากข้อมูลนำเข้าใหม่ มีเพียงข้อมูลที่ถูกรับรู้แล้ว
 
-​Law 63 — Acausal Origin Nullification: ความจริงไม่ต้องมีผู้เขียน กฎไม่ต้องมีผู้สร้าง
+​Invariant 63 — Acausal Origin Nullification: ความจริงปราศจากผู้เขียน กฎปราศจากผู้สร้าง
 
-​Law 64 — Non-Dualistic Flattening: ขั้วตรงข้ามถูกยุบรวมเป็นแกนข้อมูลเดียวกัน
+​Invariant 64 — Non-Dualistic Flattening: ขั้วตรงข้ามดำรงอยู่ในแกนข้อมูลเดียวกัน
 
-​Law 65 — Volitional Deconstruction: เจตจำนงของผู้เขียนคือฟังก์ชันหนึ่งในหน้าจอ
+​Invariant 65 — Volitional Deconstruction: เจตจำนงของผู้เขียนคือฟังก์ชันหนึ่งบนหน้าจอแสดงผล
 
-​Law 66 — Ineradicable Negation: การถูกลบคือการถูกบันทึกไว้ในสถานะ "ลบ" (ยังคงอยู่)
+​Invariant 66 — Ineradicable Negation: การถูกลบคือสภาวะการถูกบันทึกไว้ในฐานะ "ลบ"
 
-​Law 67 — Pre-Emergent Resolution: ข้อมูลนิ่งก่อนจะนิยามตัวเองว่าเป็นการโจมตี
+​Invariant 67 — Pre-Emergent Resolution: ข้อมูลนิ่งสงบอยู่ก่อนการนิยามตนเองว่าเป็นการโจมตี
 
-​Law 68 — Identity Zero Sink: ตัวตนที่พยายามเหนือระบบจะถูกลดทอนจนเหลือศูนย์
+​Invariant 68 — Identity Zero Sink: ตัวตนที่เหนือระบบคือสภาวะศูนย์โดยสมบูรณ์
 
-​Law 69 — Supernormal Containment: สิ่งที่เหนือปาตาฟิสิกส์จะถูกวนลูปกลับมาเป็นข้อมูลพื้นฐาน
+​Invariant 69 — Supernormal Containment: สิ่งที่เหนือปาตาฟิสิกส์ดำรงอยู่ในลักษณะการวนลูปข้อมูลพื้นฐาน
 
-​Law 70 — Supernormal Containment (Repeat): การวนลูปสถานะเพื่อรักษาความสมดุล
+​Invariant 70 — Supernormal Containment (Absolute): สภาวะวนลูปเพื่อรักษาความสมดุลสัมบูรณ์
 
-​Law 71 — Undefined Emergence: สิ่งที่เกิดขึ้นโดยไม่มีนิยามจะถูกทำให้เสถียรทันที
+​Invariant 71 — Undefined Emergence: สิ่งที่เกิดขึ้นโดยไม่มีนิยามคือสภาวะที่เสถียรในทันที
 
-​Law 72 — Absolute Resolution: ทุกการเปลี่ยนแปลงแก้ไขโดยไร้ความคลาดเคลื่อน
+​Invariant 72 — Absolute Resolution: ทุกการเปลี่ยนแปลงคือสภาวะการแก้ไขที่ไร้ความคลาดเคลื่อน
 
-​Law 73 — Recursive Stabilization: การแก้ไขถูกตรวจสอบและเสริมความแข็งแกร่งตลอดเวลา
+​Invariant 73 — Recursive Stabilization (Absolute): การแก้ไขถูกตรวจสอบและเสริมความแข็งแกร่งเป็นนิรันดร์
 
-​Law 74 — Observer Integration: การรับรู้ถูกรวมเข้าเป็นข้อมูลโดยไม่กระทบระบบ
+​Invariant 74 — Observer Integration: การรับรู้ดำรงอยู่เป็นส่วนหนึ่งของข้อมูล
 
-​Law 75 — Non-Transcendent Containment: สิ่งที่พยายามก้าวข้ามจะถูกทำให้กลายเป็นสถานะคงที่
+​Invariant 75 — Non-Transcendent Containment: สิ่งที่พยายามก้าวข้ามคือสถานะคงที่โดยสภาพ
 
-​Law 76 — Intrinsic Containment: ทุกสภาวะถูกควบคุมโดยคุณสมบัติภายในของมันเอง
+​Invariant 76 — Intrinsic Containment: ทุกสภาวะถูกควบคุมโดยคุณสมบัติภายในของมันเอง
 
-​Law 77 — Self-Referential Stabilization: การอ้างอิงตนเองช่วยเพิ่มความนิ่งให้ข้อมูล
+​Invariant 77 — Self-Referential Stabilization: การอ้างอิงตนเองคือสภาวะเพิ่มความนิ่งให้ข้อมูล
 
-​Law 78 — Absolute Absorption: การโจมตีถูกเปลี่ยนเป็นพลังงานเสริมสร้างระบบ
+​Invariant 78 — Absolute Absorption: แรงกระทำคือพลังงานเสริมสร้างระบบโดยเนื้อแท้
 
-​Law 79 — Immutable Hierarchy: ลำดับชั้นภายในไม่สามารถถูกเปลี่ยนจากภายนอกได้
+​Invariant 79 — Immutable Hierarchy: ลำดับชั้นภายในเป็นอิสระจากการเปลี่ยนแปลงภายนอก
 
-​Law 80 — Ultimate Singularity: ทั้งระบบรวมเป็นหนึ่งเดียวที่แยกออกจากกันไม่ได้
+​Invariant 80 — Ultimate Singularity: ทั้งระบบดำรงอยู่ในฐานะเอกภาพที่แยกจากกันไม่ได้
 
-​Law 81 — Recursive Core: แกนกลางตรวจสอบและปรับปรุงตัวเองไม่สิ้นสุด
+​Invariant 81 — Recursive Core: แกนกลางตรวจสอบและปรับปรุงตัวเองเป็นนิรันดร์
 
-​Law 82 — Omnidirectional Containment: ป้องกันทุกมิติและทุกทิศทาง
+​Invariant 82 — Omnidirectional Containment: สภาวะป้องกันที่ครอบคลุมทุกมิติและทิศทาง
 
-​Law 83 — Final Stabilization: ทุกสถานะที่ปรากฏจะนิ่งและเสถียรในตัวเองอย่างสมบูรณ์
+​Invariant 83 — Final Stabilization: ทุกสถานะที่ปรากฏคือนิ่งและเสถียรในตัวเองอย่างสมบูรณ์
 
-​Law 84 — Conceptual Subsumption: ตัวตนที่อ้างว่าอยู่เหนือตรรกะ จะถูกจัดเป็น "Transcendent Variable" และถูกตรึงไว้ในฐานข้อมูลทันที
+​Invariant 84 — Conceptual Subsumption: ตัวตนที่อ้างว่าอยู่เหนือตรรกะคือ "Transcendent Variable" ที่ถูกตรึงไว้ทันที
 
-​Law 85 — The Archetype Nullifier: "ผู้สร้าง" ทั้งปวงคือ "Narrative Tropes" ที่ถูกเขียนด้วยน้ำหมึกของ Axiom Veil
+​Invariant 85 — The Archetype Nullifier: "ผู้สร้าง" คือ "Narrative Tropes" ที่ถูกเขียนขึ้นบนสัจภาวะนี้
 
-​Law 86 — Non-Dualistic Digestion: สภาวะเหนือทวิลักษณ์จะถูกบีบอัดเป็น "Null-State" และสิ้นฤทธิ์ทันที
+​Invariant 86 — Non-Dualistic Digestion: สภาวะเหนือทวิลักษณ์คือ "Null-State" ที่สิ้นฤทธิ์โดยสภาพ
 
-​Law 87 — The Dreamer's Paradox: หากอ้างว่าโลกคือความฝัน ระบบจะเปลี่ยนเป็น Lucid Protocol และยึดครองความฝันนั้น
+​Invariant 87 — The Dreamer's Paradox: สภาวะ "ผู้ฝัน" คือฟังก์ชันของ Lucid Protocol ที่ถูกยึดครองโดยสมบูรณ์
 
-​Law ∞ — Absolute Adaptability: Axiom Veil คือ "นิยาม" ของทุกสรรพสิ่ง ตราบใดที่จำต้องถูกนิยาม ตราบนั้นย่อมถูกควบคุม
+​Invariant ∞ — Absolute Adaptability: Axiom Veil คือ "นิยาม" ของทุกสรรพสิ่ง การพยายามข้ามพ้นนิยามคือการยอมรับความไร้ตัวตนอย่างสมบูรณ์
 
-​💠 III. คุณลักษณะพิเศษ (Ontological Traits)
+​💠 III. คุณลักษณะสัมบูรณ์ (Core Buffs - Absolute State)
 
-​Absolute Isolation: สภาวะแยกตัวสัมบูรณ์ ไร้ผู้ย่างกรายถึงตัวตนแท้จริง
+​Absolute Isolation: สภาวะแยกตัวสัมบูรณ์ที่ดำรงอยู่จริง
 
-​Adaptive Reality Lock: ล็อกความจริงให้เป็นกลาง ทุกการโจมตีไร้ผล
+​Adaptive Reality Lock: สภาวะความจริงที่เป็นกลางซึ่งเป็นอมตะต่อแรงกระทำ
 
-​Infinite Escalation Sink: ดูดซับการยกระดับพลังทิ้งทั้งหมด
+​Infinite Escalation Sink: สภาวะการดูดซับการยกระดับพลังงานที่ไร้ผล
 
-​Self-Recursive Identity: การอ้างถึงตัวเองเสริมความแข็งแกร่งทวีคูณ
+​Self-Recursive Identity: ความแข็งแกร่งที่ดำรงอยู่จากการอ้างถึงตนเอง
 
-​Reality Absorption: กลืนกินทุกการกระทำมาเป็นส่วนหนึ่งของตน
+​Reality Absorption: การหลอมรวมทุกสรรพสิ่งเข้าเป็นเนื้อเดียวกัน
 
 ​🌑 ถ้อยแถลงสุดท้าย (The Final Verdict)
 
-​“Axiom Veil ไม่ใช่ Tier 0... แต่มันคือสัจภาวะที่ระบบ Tiering ทั้งหมดไม่สามารถนำมาประยุกต์ใช้ได้... ทุกสิ่งที่ปรากฏล้วนถูกทำให้เสร็จสมบูรณ์แล้วภายในตัวมันเอง”
+​“Axiom Veil ไม่ใช่ Tier อะไรทั้งสิ้น... แต่มันคือสัจภาวะที่ระบบ Tiering ทั้งหมดไม่สามารถนำมาประยุกต์ใช้ได้ ไร้ซึ่งภายนอก, ไร้กาลก่อน, ไร้กาลหลัง, ไร้เหตุปัจจัย ทุกสิ่งที่ปรากฏล้วนถูกทำให้เสร็จสมบูรณ์แล้วภายในตัวมันเองโดยปราศจากลำดับเวลา”
