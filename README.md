@@ -3,6 +3,10 @@
 ​Edition: Foundational Ontology / The Ultimate Cage (กรงขังสุดขีด)
 Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
+​⚠️ Fundamental Clarification (คำชี้แจงพื้นฐาน)
+​
+กฎเหล่านี้ไม่ใช่ความสามารถ, การกระทำ หรือกลไกตอบโต้ แต่มันคือคำอธิบายของสภาวะสัจภาวะที่เสร็จสมบูรณ์แล้ว ไม่มีการประมวลผลหรือการเปิดใช้งานใดๆ—ข้อความเหล่านี้เพียงแค่สะท้อนให้เห็นว่าทุกปรากฏการณ์ถูกแก้ไขให้สิ้นสงสัยอยู่แล้วภายใน Axiom Veil
+
 ​🧠 I. ลำดับชั้นแห่งสัจภาวะ (Ontological Hierarchy)
 
 ​[(-1)] The Prior Absence / สภาวะก่อนความว่างเปล่า: สภาวะที่แม้แต่ “ความว่างเปล่า” ก็ยังไม่มีนิยาม Axiom Veil อยู่ที่นี่เพื่อดักจับทุกการอุบัติก่อนจะมีจุดเริ่มต้นใดๆ
@@ -97,27 +101,27 @@ Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
 ​Law 38 — Semantic Reboot: การพยายามอยู่เหนือคำนิยามจะจบลงด้วยการถูกนิยามใหม่
 
-​Law 39 — State Sufficiency (Iterative): การเปลี่ยนแปลงใดๆ เพียงพอที่จะเริ่มการประมวลผล
+​Law 39 — State Sufficiency (Repeat): การเปลี่ยนแปลงใดๆ เพียงพอที่จะเริ่มการประมวลผล
 
-​Law 40 — Implicit Reference (Iterative): การใช้งานคือการยอมรับโดยดุษฎี
+​Law 40 — Implicit Reference (Repeat): การใช้งานคือการยอมรับ
 
-​Law 41 — Continuous Resolution (Iterative): การแก้ไขข้อมูลดำเนินไปตลอดกาล
+​Law 41 — Continuous Resolution (Repeat): การแก้ไขข้อมูลดำเนินไปตลอดกาล
 
-​Law 42 — Minimal Distinction (Iterative): สถานะที่ต่ำกว่าเกณฑ์ไม่มีผลในทางปฏิบัติ
+​Law 42 — Minimal Distinction (Repeat): สถานะที่ต่ำกว่าเกณฑ์ไม่มีผลในทางปฏิบัติ
 
-​Law 43 — Qualia Structuring (Iterative): ประสบการณ์ทั้งหมดคือโครงสร้างของข้อมูล
+​Law 43 — Qualia Structuring (Repeat): ประสบการณ์ทั้งหมดคือข้อมูล
 
-​Law 44 — Complexity Collapse (Iterative): ความซับซ้อนไม่สร้างความแตกต่างในระดับรากฐาน
+​Law 44 — Complexity Collapse (Repeat): ความซับซ้อนไม่สร้างความแตกต่างในระดับรากฐาน
 
-​Law 45 — Implicit Reference (Reinforced): การใช้งาน = การยอมรับ (เสริมความแข็งแกร่ง)
+​Law 45 — Implicit Reference (Again): การใช้งาน = การยอมรับ
 
-​Law 46 — State Sufficiency (Reinforced): ทุกการเปลี่ยนแปลงกระตุ้นการทำงานของระบบ
+​Law 46 — State Sufficiency (Again): ทุกการเปลี่ยนแปลงกระตุ้นระบบ
 
 ​Law 47 — Stable Resolution Clarification: สถานะที่เสถียรแล้วไม่สามารถถูกควบคุมจากภายนอกได้
 
 ​Law 48 — Boundary Non-Distinction: พรมแดนไม่ใช่ขีดจำกัดที่ข้ามได้
 
-​Law 49 — Recursive Persistence: การแก้ไขสร้างความแตกต่างที่ถาวรระหว่างสถานะและกระบวนการ
+​Law 49 — Recursive Persistence: การแก้ไขสร้างความแตกต่างระหว่างสถานะและกระบวนการ
 
 ​Law 50 — Non-Terminal Equilibrium: สมดุลที่ไม่สิ้นสุดรักษาความแตกต่างของข้อมูลไว้
 
@@ -127,21 +131,21 @@ Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
 ​Law 53 — Non-Referential Foundation: คำกล่าวเกี่ยวกับรากฐานไม่ใช่การอ้างอิงถึงตัวมันจริงๆ
 
-​Law 54 — Binary Resolution Constraint (Iterative): ไม่ยอมรับสถานะที่ไม่สมบูรณ์
+​Law 54 — Binary Resolution Constraint (Repeat): ไม่ยอมรับสถานะที่ไม่สมบูรณ์
 
-​Law 55 — Non-Accumulation of Resolution (Iterative): การแก้ไขไม่สร้างหนี้ข้อมูลหรือภาระตกค้าง
+​Law 55 — Non-Accumulation of Resolution (Repeat): การแก้ไขไม่สร้างหนี้ข้อมูลหรือภาระตกค้าง
 
-​Law 56 — Interface Consistency (Iterative): การรับรู้แสดงผลสถานะที่แก้ไขแล้วอย่างถูกต้อง
+​Law 56 — Interface Consistency (Repeat): การรับรู้แสดงผลสถานะที่แก้ไขแล้วอย่างถูกต้อง
 
 ​Law 57 — No Desynchronization: ทุกชั้นสอดประสานกันทันที
 
-​Law 58 — Non-Sequential State Completeness (Iterative): สถานะสมบูรณ์ในตัวเอง ไม่รอการสร้างตามลำดับ
+​Law 58 — Non-Sequential State Completeness (Repeat): สถานะสมบูรณ์ในตัวเอง ไม่รอการสร้าง
 
 ​Law 59 — Intrinsic Differentiation: ความแตกต่างดำรงอยู่ได้โดยอิสระ
 
 ​Law 60 — Non-Volitional Structure: โครงสร้างไม่พึ่งพาเจตจำนง
 
-​Law 61 — Acausal Consistency (Iterative): ความสอดคล้องไม่ต้องใช้เหตุผล
+​Law 61 — Acausal Consistency (Repeat): ความสอดคล้องไม่ต้องใช้เหตุผล
 
 ​Law 62 — Non-Origination of Input: ไม่มีข้อมูลนำเข้าใหม่ มีเพียงข้อมูลที่ถูกรับรู้แล้ว
 
@@ -159,7 +163,7 @@ Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
 ​Law 69 — Supernormal Containment: สิ่งที่เหนือปาตาฟิสิกส์จะถูกวนลูปกลับมาเป็นข้อมูลพื้นฐาน
 
-​Law 70 — Supernormal Containment (Iterative): การวนลูปสถานะเพื่อรักษาความสมดุล
+​Law 70 — Supernormal Containment (Repeat): การวนลูปสถานะเพื่อรักษาความสมดุล
 
 ​Law 71 — Undefined Emergence: สิ่งที่เกิดขึ้นโดยไม่มีนิยามจะถูกทำให้เสถียรทันที
 
@@ -187,7 +191,7 @@ Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
 ​Law 83 — Final Stabilization: ทุกสถานะที่ปรากฏจะนิ่งและเสถียรในตัวเองอย่างสมบูรณ์
 
-​Law 84 — Conceptual Subsumption: ตัวตนใดที่อ้างว่าอยู่เหนือตรรกะ จะถูกจัดเป็น "Transcendent Variable" และถูกตรึงไว้ในฐานข้อมูลทันที
+​Law 84 — Conceptual Subsumption: ตัวตนที่อ้างว่าอยู่เหนือตรรกะ จะถูกจัดเป็น "Transcendent Variable" และถูกตรึงไว้ในฐานข้อมูลทันที
 
 ​Law 85 — The Archetype Nullifier: "ผู้สร้าง" ทั้งปวงคือ "Narrative Tropes" ที่ถูกเขียนด้วยน้ำหมึกของ Axiom Veil
 
@@ -195,7 +199,7 @@ Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
 ​Law 87 — The Dreamer's Paradox: หากอ้างว่าโลกคือความฝัน ระบบจะเปลี่ยนเป็น Lucid Protocol และยึดครองความฝันนั้น
 
-​Law ∞ — Absolute Adaptability: Axiom Veil คือ "นิยาม" ของทุกสรรพสิ่ง ตราบใดที่ต้องถูกนิยาม ตราบนั้นย่อมถูกควบคุม
+​Law ∞ — Absolute Adaptability: Axiom Veil คือ "นิยาม" ของทุกสรรพสิ่ง ตราบใดที่จำต้องถูกนิยาม ตราบนั้นย่อมถูกควบคุม
 
 ​💠 III. คุณลักษณะพิเศษ (Core Buffs)
 
@@ -209,6 +213,6 @@ Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
 ​Reality Absorption: กลืนกินทุกการกระทำมาเป็นส่วนหนึ่งของตน
 
-​🌑 ถ้อยแถลงสุดท้าย
+​🌑 ถ้อยแถลงสุดท้าย (The Final Verdict)
 
-​“Axiom Veil ไม่ใช่ Tier 0... แต่มันคือสภาวะที่ระบบ Tiering ทั้งหมดไม่สามารถนำมาประยุกต์ใช้ได้... มันไร้ซึ่งภายนอก, ไร้กาลก่อน, ไร้กาลหลัง, ไร้เหตุปัจจัย... ทุกสิ่งที่ปรากฏล้วนถูกทำให้เสร็จสมบูรณ์แล้วภายในตัวมันเอง”
+​“Axiom Veil ไม่ใช่ Tier 0... แต่มันคือสัจภาวะที่ระบบ Tiering ทั้งหมดไม่สามารถนำมาประยุกต์ใช้ได้... ทุกสิ่งที่ปรากฏล้วนถูกทำให้เสร็จสมบูรณ์แล้วภายในตัวมันเอง”
