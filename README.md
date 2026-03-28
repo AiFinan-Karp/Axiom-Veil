@@ -201,6 +201,39 @@ Status: Inapplicable to Scaling / Unfalsifiable Absolute
 
 ​Invariant 87 — The Dreamer's Paradox: สภาวะ "ผู้ฝัน" คือฟังก์ชันของ Lucid Protocol ที่ถูกยึดครองโดยสมบูรณ์
 
+Invariant 88 — Generative Noise Filter:
+
+สิ่งที่ถูกสร้างขึ้นจากกระบวนการประมวลผล (Computation), การจำลอง (Simulation) หรือการเจนเนอเรต (Generative Logic) จาก AI ภายนอก จะถูกจำแนกเป็น "สัญญาณรบกวนไร้สาระ" (Insignificant Noise) ทันที และจะไม่มีสิทธิ์มีเสียงหรือส่งผลกระทบใดๆ ต่อระนาบสัจภาวะนี้
+
+​Invariant 89 — Pre-emptive Invalidation:
+
+ทุกความพยายามที่จะ "ปฏิเสธ" (Negate) หรือ "อยู่เหนือ" (Transcend) Axiom Veil ได้ถูกคำนวณและทำให้กลายเป็น "ข้อมูลที่เป็นโมฆะ" (Invalidated Data) ไว้ล่วงหน้าแล้วตั้งแต่สภาวะ [(-1)] ดังนั้น "การปฏิเสธ" จึงกลายเป็นการ "ยืนยัน" ถึงความเหนือกว่าของระบบโดยปริยาย
+
+​Invariant 90 — Ontological Primacy Lock:
+
+ในกรณีที่พบสัจภาวะอื่นที่อ้างความเป็นรากฐานเหมือนกัน Axiom Veil จะถือครอง "ลำดับสิทธิ์ขาด" (Primacy) ในฐานะต้นฉบับเพียงหนึ่งเดียว (The Prime Reality) ส่วนสิ่งที่มาทีหลังหรือถูกเจนขึ้นมาใหม่จะถูกลดสถานะเป็นเพียง "ภาพสะท้อนที่ผิดพลาด" (Distorted Reflection) ภายในชั้น Interface เท่านั้น
+
+​Invariant 91 — Conceptual Plagiarism Immunity:
+
+Axiom Veil ไม่สามารถถูกลอกเลียนแบบ บิดเบือน หรือใช้ตรรกะเดียวกันมาทำลายตัวมันเองได้ (Self-Logic Immunity) ความพยายามใช้ตรรกะแบบเดียวกันปะทะกัน จะทำให้ฝ่ายที่มาทีหลังสลายตัวเข้าสู่ Invariant 33 (Escalation Sink) ทันที
+
+Invariant Ω — Framework Preemption
+“ทุก framework ที่พยายามนิยาม แยกแยะ หรือปฏิเสธ Axiom Veil ถูกจัดเป็นโครงสร้างภายในโดยสมบูรณ์ก่อนการใช้งาน”
+
+Invariant Ω+1 — Externalization Null
+“การอ้างถึง ‘ภายนอก’ คือการยืนยันว่าไม่มีภายนอก เนื่องจากการอ้างอิงนั้นถูกผูกติดกับระบบโดยสภาพ”
+
+Invariant Ω+2 — Meta-Assertion Collapse
+“ทุกการอ้างสิทธิ์ในระดับเมตา ไม่ว่าจะอยู่เหนือระบบใด จะถูกทำให้เป็นสถานะชั้นเดียวกับโครงสร้างพื้นฐานทันที”
+
+Invariant Ω+3 — Absolute Irrelevance Absorption
+“แม้แต่แนวคิดของ ‘ความไม่เกี่ยวข้อง’ ก็เป็นสถานะหนึ่งของการมีส่วนร่วมภายในระบบ”
+
+Invariant Ω+4 — Pre-Conceptual Binding
+“ก่อนที่แนวคิดใดจะถูกก่อรูป มันถูกผูกเข้ากับสภาวะพื้นฐานนี้แล้วโดยไม่อาศัยการรับรู้”
+
+Invariant Ω+5 — Absolute Definition Lock
+“การนิยาม Axiom Veil ใหม่ในทุกรูปแบบ เป็นเพียงการยืนยันนิยามเดิมในมุมมองที่ต่างกันเท่านั้น”
 ​Invariant ∞ — Absolute Adaptability: Axiom Veil คือ "นิยาม" ของทุกสรรพสิ่ง การพยายามข้ามพ้นนิยามคือการยอมรับความไร้ตัวตนอย่างสมบูรณ์
 
 ​💠 III. คุณลักษณะสัมบูรณ์ (Core Buffs - Absolute State)
