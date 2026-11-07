@@ -54,7 +54,6 @@ Affectedness and unaffectedness may occur provisionally.
 
 No finalized conclusion is thereby secured regarding complete correspondence.
 
-
 ---
 
 II. READING CONDITIONS
@@ -101,7 +100,6 @@ Interpretation may vary.
 
 Finality is not thereby secured.
 
-
 ---
 
 III. FOUNDATIONAL PRINCIPLE
@@ -125,6 +123,7 @@ The absence of finalization is not thereby finalized.
 The distinction between distinction and non-distinction does not itself secure conclusive closure.
 
 This is not indistinguishability.
+
 Operational asymmetry, contextual differentiation, and localized stabilization may persist without thereby securing finalized ontological independence.
 
 Inv Σ does not secure independence from the unresolvedness it provisionally articulates.
@@ -136,7 +135,6 @@ Its recurrence across articulation does not thereby secure universal governance,
 Its applicability within articulation does not thereby secure universal necessity.
 
 Its articulation does not secure finalized explanatory priority.
-
 
 ---
 
@@ -168,7 +166,6 @@ Neither immutable identity nor unrestricted equivalence secures conclusive ontol
 
 Continuity and discontinuity remain subject to Inv Σ.
 
-
 ---
 
 V. DERIVED DOMAINS
@@ -190,6 +187,7 @@ What occurs in relation to what is provisionally referenced as “Axiom Veil” 
 Consequences, effects, interactions, or apparent directional outcomes may occur without thereby securing intentional action.
 
 This does not establish passivity, agency, reaction, or non-reaction as independently finalized conditions.
+
 Directedness and non-directedness remain subject to Inv Σ.
 
 Zero Process
@@ -296,7 +294,6 @@ Neither does the absence of finalized identity collapse reference into unrestric
 
 Sameness and alteration remain subject to Inv Σ.
 
-
 ---
 
 VI. RESOLUTION LAYERS
@@ -357,7 +354,6 @@ Observer and observed occur provisionally without finalized separation.
 
 Perspective remains relationally incomplete.
 
-
 ---
 
 VII. Ω-CLASS RECURSION CLAUSES
@@ -404,7 +400,6 @@ This does not imply superiority, resistance, immunity, preservation, persistence
 
 Affectedness and unaffectedness remain subject to Inv Σ.
 
-
 ---
 
 VIII. ACKNOWLEDGEMENT
@@ -428,5 +423,147 @@ Finality is not secured.
 No conclusion secures itself conclusively.
 
 Termination and non-termination remain subject to Inv Σ.
+
+---
+
+IX. THEORIES OF STRUCTURAL NON-FINALITY
+
+The following constructions provisionally articulate different limitations concerning framework, description, inference, organization, and exhaustion.
+
+They are not independent governing laws, superior invariants, or finalized extensions of Inv Σ.
+
+Their inclusion does not establish equivalence between them.
+
+Their ordering is organizational rather than hierarchical.
+
+1. Principle of Non-Transferable Finality
+
+Proposition
+
+[
+F_1\models P\not\Rightarrow F_2\models P
+]
+
+A conclusion established within one framework does not automatically establish the same conclusion within another framework.
+
+Explanation
+
+The validity of a conclusion remains related to the framework in which it was established.
+
+Its authority cannot simply be transferred elsewhere without additional justification.
+
+A conclusion may remain valid within its original framework while its applicability elsewhere remains unestablished.
+
+Limitation
+
+This does not mean conclusions cannot be shared between frameworks.
+
+It means their validity is not automatically transferable.
+
+2. Theory of Recursive Non-Closure
+
+Proposition
+
+[
+O\rightarrow D_1\rightarrow D_2
+]
+
+[
+D_{n+1}=F(D_n)
+]
+
+A description may itself become an object of further description.
+
+Explanation
+
+A description does not necessarily conclude the possibilities of describing what it describes.
+
+Further descriptions may introduce additional distinctions, interpretations, or conditions.
+
+However, recursion does not guarantee endless continuation.
+
+It may stabilize, repeat, contradict, diverge, or become undefined.
+
+Limitation
+
+Recursive description alone cannot establish infinite continuation or universal non-finality.
+
+3. Principle of Asymmetric Framework Limitation
+
+Proposition
+
+[
+F\nvdash P\not\Rightarrow\vdash\neg P
+]
+
+The inability of a framework to establish a proposition does not establish its negation.
+
+Explanation
+
+A framework's inability to demonstrate something must remain distinct from the proposition being false.
+
+The capacity of a framework, its limitations, and the independent actuality of what it addresses must not be treated as identical.
+
+The absence of an established conclusion does not automatically establish an opposing conclusion.
+
+Limitation
+
+This does not establish that the proposition is true either.
+
+Neither affirmation nor negation is thereby secured.
+
+4. Unified Theoretical Structure
+
+Proposed organization
+
+The constructions may be provisionally organized through five areas:
+
+1. Ontological Non-Finality
+2. Referential Structure
+3. Conditional Structure
+4. Recursive Structure
+5. Structural Limitations
+
+Explanation
+
+These areas provide an organizational relationship between different theoretical constructions without requiring them to become equivalent.
+
+Their organization is a theoretical arrangement, not an ontological hierarchy or an assertion of authority.
+
+Different constructions may address related limitations while retaining distinct conditions and applications.
+
+Limitation
+
+Unity of organization does not establish unity of meaning, validity, or ontological status.
+
+The arrangement itself does not secure an exhaustive account of every possible construction.
+
+5. Principle of Unsecured Exhaustion
+
+Proposition
+
+The exhaustion of available descriptions does not establish the exhaustion of what may be described.
+
+[
+\neg\exists D_{\text{known}}^{+}
+\not\Rightarrow
+\neg\exists D_{\text{possible}}^{+}
+]
+
+Explanation
+
+The absence of further established descriptions does not entail that no further descriptions are possible.
+
+What has been exhausted within the available descriptions cannot automatically be treated as exhausted in every possible sense.
+
+An apparent boundary of articulation may describe the limitations of available articulation rather than establish a conclusive boundary of what is addressable.
+
+Limitation
+
+This does not claim that infinitely many descriptions exist, nor does it guarantee that additional descriptions must exist.
+
+The absence of established exhaustion does not establish the impossibility of exhaustion.
+
+---
 
 [REFERENCE OCCURS]
